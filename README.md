@@ -74,6 +74,17 @@ The system was trained and evaluated on a subset of the MIMIC-IV-ED dataset, uti
 ---
 
 ## III. Results
+<img width="3767" height="1616" alt="Table_III_Ablation_Robustness_Diagram" src="https://github.com/user-attachments/assets/1857615f-90be-4d0e-9253-940ffc731ba6" />
+<img width="2550" height="1260" alt="Graph_Figure_2_Cross_Validation" src="https://github.com/user-attachments/assets/74b1e651-aa8c-4a9f-9810-9ba763fb9652" />
+<img width="2550" height="1350" alt="Graph_Figure_3_Ablation_Analysis" src="https://github.com/user-attachments/assets/06a52bcf-ed26-4133-bc3e-8d6b3d33dfa4" />
+<img width="2550" height="1500" alt="Graph_Figure_4_Sensitivity_Robustness" src="https://github.com/user-attachments/assets/8ce359a7-3d86-427c-8b22-eceb8db6710d" />
+<img width="3462" height="1406" alt="Table_II_Computational_Complexity_Diagram" src="https://github.com/user-attachments/assets/6a906779-d392-430b-9512-20baed317a6d" />
+<img width="2550" height="1950" alt="Graph_Figure_1_Confusion_Matrix" src="https://github.com/user-attachments/assets/f9a42658-453f-4296-954d-eaebed17bb84" />
+<img width="2700" height="1500" alt="Graph_Figure_5_Demographics_Performance" src="https://github.com/user-attachments/assets/aa4bb169-b9e6-4cd4-8278-5d644f09886f" />
+<img width="2550" height="1350" alt="Graph_Figure_6_Missing_Data_Sensitivity" src="https://github.com/user-attachments/assets/b4914aa5-fa65-4808-9ce9-d7101956913b" />
+<img width="2700" height="1350" alt="Graph_Figure_7_Runtime_Latency" src="https://github.com/user-attachments/assets/c6dafd7d-d420-4885-9883-e59d331ece63" />
+<img width="3966" height="1434" alt="Table_IV_Advanced_Statistical_Validation" src="https://github.com/user-attachments/assets/52dbeaa7-6f4e-4481-af37-682a0eca2db0" />
+
 
 ### A. Classification Performance and Clinical Safety
 
